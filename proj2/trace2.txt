@@ -1,0 +1,1260 @@
+-----  Network Simulator Version    2.3 -------- 
+
+Enter the number of messages to simulate: Packet loss probability [enter number between 0.0 and 1.0]: Packet corruption probability [0.0 for no corruption]: Packet out-of-order probability [0.0 for no out-of-order]: Average time between messages from sender's layer5 [ > 0.0]: Enter Level of tracing desired: Do you want actions randomized: (1 = yes, 0 = no)? Do you want Bidirectional: (1 = yes, 0 = no)? Input parameters:
+Number of Messages = 100  Lost Packet Prob. =   0.000
+Corrupt Packet Prob. =   0.000  Out Of Order Prob. =   0.000
+Ave. time between messages =  1000.00  Trace level = 4
+Randomize = 0  Bi-directional = 0
+
+A:    1080.0336,  Layer 5 to 4  Message = !fEVhy->Pbs'2J3m~2DU
+A sending packet with seqnum 0 and checksum 224796
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 224796
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:    1088.3078,  Layer 4 to 5  Message = !fEVhy->Pbs'2J3m~2DU
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    1204.7785,  Layer 5 to 4  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+A sending packet with seqnum 1 and checksum 230550
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 230550
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:    1223.5961,  Layer 4 to 5  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    1653.7829,  Layer 5 to 4  Message = $X$d:oFzQ(]3h>sJ~U,a
+A sending packet with seqnum 0 and checksum 241262
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 241262
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:    1677.5376,  Layer 4 to 5  Message = $X$d:oFzQ(]3h>sJ~U,a
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    1835.7455,  Layer 5 to 4  Message = %kS%$jR:#iQ9!hP8~gO7
+A sending packet with seqnum 1 and checksum 224122
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 224122
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:    1849.0348,  Layer 4 to 5  Message = %kS%$jR:#iQ9!hP8~gO7
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    2371.0866,  Layer 5 to 4  Message = &}wq&e_XRLF?93-'~xrl
+A sending packet with seqnum 0 and checksum 249383
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 249383
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:    2390.6989,  Layer 4 to 5  Message = &}wq&e_XRLF?93-'~xrl
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    2409.3401,  Layer 5 to 4  Message = '2=IT'kv$x:FQ]hs~,7C
+A sending packet with seqnum 1 and checksum 232277
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 232277
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:    2411.2992,  Layer 4 to 5  Message = '2=IT'kv$x:FQ]hs~,7C
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    3967.4124,  Layer 5 to 4  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+A sending packet with seqnum 0 and checksum 259171
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 259171
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:    3996.5436,  Layer 4 to 5  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    5695.2777,  Layer 5 to 4  Message = dW(V'U&)%S$R2Q!P~O}N
+A sending packet with seqnum 1 and checksum 228658
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 228658
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:    5725.4583,  Layer 4 to 5  Message = dW(V'U&)%S$R2Q!P~O}N
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    6789.8469,  Layer 5 to 4  Message = *jL.nP2r*6vX:z]>~aC%
+A sending packet with seqnum 0 and checksum 230277
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 230277
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:    6808.5132,  Layer 4 to 5  Message = *jL.nP2r*6vX:z]>~aC%
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:    8601.9736,  Layer 5 to 4  Message = +fpdWK>2&+k_RF3-~rfY
+A sending packet with seqnum 1 and checksum 244448
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 244448
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:    8609.1710,  Layer 4 to 5  Message = +fpdWK>2&+k_RF3-~rfY
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   10392.1991,  Layer 5 to 4  Message = ,16;AFKPUZ,ejoty~&+0
+A sending packet with seqnum 0 and checksum 230481
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 230481
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   10393.2031,  Layer 4 to 5  Message = ,16;AFKPUZ,ejoty~&+0
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   10597.3988,  Layer 5 to 4  Message = -DZq*AWn'=T-$:Qh~7Ne
+A sending packet with seqnum 1 and checksum 228550
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 228550
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   10623.9955,  Layer 4 to 5  Message = -DZq*AWn'=T-$:Qh~7Ne
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   10677.1588,  Layer 5 to 4  Message = .V~Iq;d.V~Iq.d.V~Iq;
+A sending packet with seqnum 0 and checksum 244278
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 244278
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   10703.7936,  Layer 4 to 5  Message = .V~Iq;d.V~Iq.d.V~Iq;
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   11691.5139,  Layer 5 to 4  Message = xiE~Z6pL(b=wSxiE~Z6p
+A sending packet with seqnum 1 and checksum 263910
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 263910
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   11701.4170,  Layer 4 to 5  Message = xiE~Z6pL(b=wSxiE~Z6p
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   12599.1338,  Layer 5 to 4  Message = d{iVD1|jWE2}2X03~lYG
+A sending packet with seqnum 0 and checksum 238646
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 238646
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   12605.7082,  Layer 4 to 5  Message = d{iVD1|jWE2}2X03~lYG
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   14595.4557,  Layer 5 to 4  Message = 10x.-,+*)('&%$#1~}|{
+A sending packet with seqnum 1 and checksum 231605
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 231605
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   14620.7627,  Layer 4 to 5  Message = 10x.-,+*)('&%$#1~}|{
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   15241.1113,  Layer 5 to 4  Message = 2CSdt'7HXiy,<M^n21BR
+A sending packet with seqnum 0 and checksum 214294
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 214294
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   15271.8034,  Layer 4 to 5  Message = 2CSdt'7HXiy,<M^n21BR
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   17069.6050,  Layer 5 to 4  Message = 3Uw;^!Df*Ln2Tv:]~3e)
+A sending packet with seqnum 1 and checksum 227223
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 227223
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   17094.2012,  Layer 4 to 5  Message = 3Uw;^!Df*Ln2Tv:]~3e)
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   17917.2955,  Layer 5 to 4  Message = 4f=qGzP&Yxc8lB3K~T4^
+A sending packet with seqnum 0 and checksum 236376
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 236376
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   17942.2117,  Layer 4 to 5  Message = 4f=qGzP&Yxc8lB3K~T4^
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   18571.9030,  Layer 5 to 4  Message = 5zbI0u]D+pW>&kR9~fM5
+A sending packet with seqnum 1 and checksum 229871
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 229871
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   18594.0958,  Layer 4 to 5  Message = 5zbI0u]D+pW>&kR9~fM5
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   19805.2712,  Layer 5 to 4  Message = 6x(~wpibZSLE=6x(~wpi
+A sending packet with seqnum 0 and checksum 271514
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 271514
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   19821.8210,  Layer 4 to 5  Message = 6x(~wpibZSLE=6x(~wpi
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   21001.9153,  Layer 5 to 4  Message = d7LVaku!,6AK2`jt~+5?
+A sending packet with seqnum 1 and checksum 219548
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 219548
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   21029.2532,  Layer 4 to 5  Message = d7LVaku!,6AK2`jt~+5?
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   21593.4219,  Layer 5 to 4  Message = 8T8.Jf$?[w5Qm+Gc~<Xt
+A sending packet with seqnum 0 and checksum 252411
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 252411
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   21613.8933,  Layer 4 to 5  Message = 8T8.Jf$?[w5Qm+Gc~<Xt
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   22655.4613,  Layer 5 to 4  Message = 9g693a0^-Z*W'T$Q~N{K
+A sending packet with seqnum 1 and checksum 233163
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 233163
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   22666.5777,  Layer 4 to 5  Message = 9g693a0^-Z*W'T$Q~N{K
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   23510.0001,  Layer 5 to 4  Message = :yZ;:[<{]=|^>}_?~`A!
+A sending packet with seqnum 0 and checksum 236594
+ A sending packet to B
+A:   23520.2472,  Layer 5 to 4  Message = ;.~qd;I;.~qdVI;.~qdV
+B gettin' a packet with seqnum 0, and checksum 236594
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   23521.4004,  Layer 4 to 5  Message = :yZ;:[<{]=|^>}_?~`A!
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+Data being dequeued: ;.~qd;I;.~qdVI;.~qdV
+A sending packet with seqnum 1 and checksum 256906 from the queue
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 256906
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   23531.9705,  Layer 4 to 5  Message = ;.~qd;I;.~qdVI;.~qdV
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   23652.4312,  Layer 5 to 4  Message = <AEIMQ<Y^bfjnrvz~%)-
+A sending packet with seqnum 0 and checksum 240448
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 240448
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   23667.1036,  Layer 4 to 5  Message = <AEIMQ<Y^bfjnrvz~%)-
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   23781.1731,  Layer 5 to 4  Message = =fi~6Lb=xEZp(=3i~6Lb
+A sending packet with seqnum 1 and checksum 237403
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 237403
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   23805.8496,  Layer 4 to 5  Message = =fi~6Lb=xEZp(=3i~6Lb
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   25506.1430,  Layer 5 to 4  Message = dfxV}Gn7>(Ov2g0W~Ho8
+A sending packet with seqnum 0 and checksum 236974
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 236974
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   25530.3311,  Layer 4 to 5  Message = dfxV}Gn7>(Ov2g0W~Ho8
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   26639.8789,  Layer 5 to 4  Message = ?xS.gBzU0?D|W2kF~Y4m
+A sending packet with seqnum 1 and checksum 248713
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 248713
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   26660.8227,  Layer 4 to 5  Message = ?xS.gBzU0?D|W2kF~Y4m
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   28575.8752,  Layer 5 to 4  Message = A-wdP<)s`LA%o[H4~kWD
+A sending packet with seqnum 0 and checksum 240733
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 240733
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   28589.0429,  Layer 4 to 5  Message = A-wdP<)s`LA%o[H4~kWD
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   30053.8982,  Layer 5 to 4  Message = B?=;97531x-B)'%#~|zx
+A sending packet with seqnum 1 and checksum 242411
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 242411
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   30057.6330,  Layer 4 to 5  Message = B?=;97531x-B)'%#~|zx
+Setting comp_seqnum from 1 to 0
+
+Printing the contents of the Simulation Event Q
+Event Time = 30208.157 A: LAYER 5  
+Event Time = 30553.898 A: Timer    
+
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+
+Printing the contents of the Simulation Event Q
+
+A:   30208.1568,  Layer 5 to 4  Message = CRbq#2BQap!1CP`o~0?O
+A sending packet with seqnum 0 and checksum 227535
+ A sending packet to B
+
+Printing the contents of the Simulation Event Q
+Event Time = 30708.157 A: Timer    
+Event Time = 30880.762 A: LAYER 5  
+
+B gettin' a packet with seqnum 0, and checksum 227535
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   30225.3876,  Layer 4 to 5  Message = CRbq#2BQap!1CP`o~0?O
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   30880.7619,  Layer 5 to 4  Message = De(Ij-No2St7XD<^~Bc&
+A sending packet with seqnum 1 and checksum 225929
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 225929
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   30905.6444,  Layer 4 to 5  Message = De(Ij-No2St7XD<^~Bc&
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   31368.8179,  Layer 5 to 4  Message = EwL~S(Zxb6i=pEEL~S(Z
+A sending packet with seqnum 0 and checksum 234779
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 234779
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   31399.8179,  Layer 4 to 5  Message = EwL~S(Zxb6i=pEEL~S(Z
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   31673.4868,  Layer 5 to 4  Message = d,pV<#gM3w^D2nTF~eK1
+A sending packet with seqnum 1 and checksum 235161
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 235161
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   31688.5241,  Layer 4 to 5  Message = d,pV<#gM3w^D2nTF~eK1
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   32135.1752,  Layer 5 to 4  Message = Gf6.&{skcZRJB93)Gvnf
+A sending packet with seqnum 0 and checksum 240640
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 240640
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   32151.0083,  Layer 4 to 5  Message = Gf6.&{skcZRJB93)Gvnf
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   33205.0034,  Layer 5 to 4  Message = HQZdmv!+4=GPYclu~H3<
+A sending packet with seqnum 1 and checksum 235347
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 235347
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   33234.4149,  Layer 4 to 5  Message = HQZdmv!+4=GPYclu~H3<
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   35031.7987,  Layer 5 to 4  Message = Id~;Vq.Id~;Vq.Id~;Iq
+A sending packet with seqnum 0 and checksum 253062
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 253062
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   35058.0842,  Layer 4 to 5  Message = Id~;Vq.Id~;Vq.Id~;Iq
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   35689.8285,  Layer 5 to 4  Message = JvEq?l:g5b0]+W&R~MyJ
+A sending packet with seqnum 1 and checksum 239595
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 239595
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   35714.8736,  Layer 4 to 5  Message = JvEq?l:g5b0]+W&R~MyJ
+Setting comp_seqnum from 1 to 0
+A:   35719.8396,  Layer 5 to 4  Message = K+iI)gG'eE%cC#aA~_>|
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+Data being dequeued: K+iI)gG'eE%cC#aA~_>|
+A sending packet with seqnum 0 and checksum 242629 from the queue
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 242629
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   35747.2011,  Layer 4 to 5  Message = K+iI)gG'eE%cC#aA~_>|
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   36994.7240,  Layer 5 to 4  Message = LLx~pbSE6(wiZL=x~pbS
+A sending packet with seqnum 1 and checksum 271937
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 271937
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   37014.4906,  Layer 4 to 5  Message = LLx~pbSE6(wiZL=x~pbS
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   38855.9163,  Layer 5 to 4  Message = dPMVY]`cfilo2ux{~$'*
+A sending packet with seqnum 0 and checksum 235666
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 235666
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   38870.7000,  Layer 4 to 5  Message = dPMVY]`cfilo2ux{~$'*
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   39841.0647,  Layer 5 to 4  Message = NcwNCWl#7Lau,AUj~5J_
+A sending packet with seqnum 1 and checksum 240435
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 240435
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   39868.2881,  Layer 4 to 5  Message = NcwNCWl#7Lau,AUj~5J_
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   41822.7274,  Layer 5 to 4  Message = Ou=dORxAgxU{Dj2X~Gm5
+A sending packet with seqnum 0 and checksum 251939
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 251939
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   41850.0127,  Layer 4 to 5  Message = Ou=dORxAgxU{Dj2X~Gm5
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   42051.0600,  Layer 5 to 4  Message = Pfb;sP'_8pJ$[53G~X2j
+A sending packet with seqnum 1 and checksum 226654
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 226654
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   42078.6475,  Layer 4 to 5  Message = Pfb;sP'_8pJ$[53G~X2j
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   42806.7383,  Layer 5 to 4  Message = Q<(q]HQ|hS>*s_J5~jUA
+A sending packet with seqnum 0 and checksum 245224
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 245224
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   42836.6015,  Layer 4 to 5  Message = Q<(q]HQ|hS>*s_J5~jUA
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   42959.2816,  Layer 5 to 4  Message = ROLIFC?R9630-*'$~{xu
+A sending packet with seqnum 1 and checksum 237987
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 237987
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   42978.6605,  Layer 4 to 5  Message = ROLIFC?R9630-*'$~{xu
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   43613.2632,  Layer 5 to 4  Message = Sbp~x=LZSw(6ESbp~x=L
+A sending packet with seqnum 0 and checksum 255707
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 255707
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   43637.0315,  Layer 4 to 5  Message = Sbp~x=LZSw(6ESbp~x=L
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   44385.1515,  Layer 5 to 4  Message = dt6Vv8Xx:Tz<2|>_~Aa#
+A sending packet with seqnum 1 and checksum 233325
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 233325
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   44395.4744,  Layer 4 to 5  Message = dt6Vv8Xx:Tz<2|>_~Aa#
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   44725.3154,  Layer 5 to 4  Message = U)Z.`3e8j=UCtHyM~R&W
+A sending packet with seqnum 0 and checksum 241259
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 241259
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   44732.4831,  Layer 4 to 5  Message = U)Z.`3e8j=UCtHyM~R&W
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   46707.0192,  Layer 5 to 4  Message = V;~dI.qV;~dV.qV;~dI.
+A sending packet with seqnum 1 and checksum 237310
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 237310
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   46737.3566,  Layer 4 to 5  Message = V;~dI.qV;~dV.qV;~dI.
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   48621.2506,  Layer 5 to 4  Message = WNE;2)}tkbXOW<3*~ulc
+A sending packet with seqnum 0 and checksum 260253
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 260253
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   48646.9783,  Layer 4 to 5  Message = WNE;2)}tkbXOW<3*~ulc
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   49419.3024,  Layer 5 to 4  Message = Xaiqy$,4<EMU^Xnv~)19
+A sending packet with seqnum 1 and checksum 224556
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 224556
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   49445.7867,  Layer 4 to 5  Message = Xaiqy$,4<EMU^Xnv~)19
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   49566.3655,  Layer 5 to 4  Message = YfxIc|8Rl(B[u1Ye~:Tn
+A sending packet with seqnum 0 and checksum 256225
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 256225
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   49589.6528,  Layer 4 to 5  Message = YfxIc|8Rl(B[u1Ye~:Tn
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   49775.4149,  Layer 5 to 4  Message = Z(S~LwEp=i6bxZ(Z~LwE
+A sending packet with seqnum 1 and checksum 257316
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 257316
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   49788.0581,  Layer 4 to 5  Message = Z(S~LwEp=i6bxZ(Z~LwE
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   50395.1598,  Layer 5 to 4  Message = d:wV5rQ0mL+h2&cB[^<y
+A sending packet with seqnum 0 and checksum 233664
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 233664
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   50405.0714,  Layer 4 to 5  Message = d:wV5rQ0mL+h2&cB[^<y
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   51455.7825,  Layer 5 to 4  Message = ]M=.|m^N>x}n_O?0~]`P
+A sending packet with seqnum 1 and checksum 257425
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 257425
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   51476.6361,  Layer 4 to 5  Message = ]M=.|m^N>x}n_O?0~]`P
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   51636.9706,  Layer 5 to 4  Message = ^`bdfhjlnprtvxz|~#^'
+A sending packet with seqnum 0 and checksum 271835
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 271835
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   51649.6869,  Layer 4 to 5  Message = ^`bdfhjlnprtvxz|~#^'
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   51900.2739,  Layer 5 to 4  Message = _r(;Ocv,?Sgz0DWk~4H_
+A sending packet with seqnum 1 and checksum 245013
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 245013
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   51907.4675,  Layer 4 to 5  Message = _r(;Ocv,?Sgz0DWk~4H_
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   52422.9955,  Layer 5 to 4  Message = `'Lq8^%Jo6[#Hm4Y~Fk2
+A sending packet with seqnum 0 and checksum 230179
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 230179
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   52449.2545,  Layer 4 to 5  Message = `'Lq8^%Jo6[#Hm4Y~Fk2
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   53262.2683,  Layer 5 to 4  Message = aapI!X1hAwP)`8oH~W0g
+A sending packet with seqnum 1 and checksum 242123
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 242123
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   53268.8232,  Layer 4 to 5  Message = aapI!X1hAwP)`8oH~W0g
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   54420.5133,  Layer 5 to 4  Message = bLb~iS=(pZExwbL6~iS=
+A sending packet with seqnum 0 and checksum 253126
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 253126
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   54443.0387,  Layer 4 to 5  Message = bLb~iS=(pZExwbL6~iS=
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   54942.8125,  Layer 5 to 4  Message = dfZcRNJFB=952-3%~zvr
+A sending packet with seqnum 1 and checksum 244124
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 244124
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   54947.9760,  Layer 4 to 5  Message = dfZcRNJFB=952-3%~zvr
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   55546.8423,  Layer 5 to 4  Message = dq~.dIVdq~.;IVdq~.;I
+A sending packet with seqnum 0 and checksum 236340
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 236340
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   55567.4378,  Layer 4 to 5  Message = dq~.dIVdq~.;IVdq~.;I
+Setting comp_seqnum from 0 to 1
+
+Printing the contents of the Simulation Event Q
+Event Time = 55771.225 A: LAYER 5  
+Event Time = 56046.842 A: Timer    
+
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+
+Printing the contents of the Simulation Event Q
+
+A:   55771.2250,  Layer 5 to 4  Message = e&Ed%ec$Cb#Ba!A`~?_}
+A sending packet with seqnum 1 and checksum 246265
+ A sending packet to B
+
+Printing the contents of the Simulation Event Q
+Event Time = 56133.825 A: LAYER 5  
+Event Time = 56271.225 A: Timer    
+
+B gettin' a packet with seqnum 1, and checksum 246265
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   55795.4980,  Layer 4 to 5  Message = e&Ed%ec$Cb#Ba!A`~?_}
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   56133.8250,  Layer 5 to 4  Message = f8i;l>fBrEuHxK{N~Q$T
+A sending packet with seqnum 0 and checksum 248828
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 248828
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   56142.1432,  Layer 4 to 5  Message = f8i;l>fBrEuHxK{N~Q$T
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   58069.2442,  Layer 5 to 4  Message = gKxqU9{gD(jN2tX<~cG+
+A sending packet with seqnum 1 and checksum 231246
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 231246
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   58071.1842,  Layer 4 to 5  Message = gKxqU9{gD(jN2tX<~cG+
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   58217.8614,  Layer 5 to 4  Message = h^SI>4*}hi_TJ?5+~tj`
+A sending packet with seqnum 0 and checksum 256764
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 256764
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   58233.5178,  Layer 4 to 5  Message = h^SI>4*}hi_TJ?5+~tj`
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   58408.7258,  Layer 5 to 4  Message = ipw~(x6=EiSZbipw~(x6
+A sending packet with seqnum 1 and checksum 261628
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 261628
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   58435.6865,  Layer 4 to 5  Message = ipw~(x6=EiSZbipw~(x6
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   59863.5177,  Layer 5 to 4  Message = d%=Vo*C[txja24Mf~9Rk
+A sending packet with seqnum 0 and checksum 253043
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 253043
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   59876.8852,  Layer 4 to 5  Message = d%=Vo*C[txja24Mf~9Rk
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   61402.4118,  Layer 5 to 4  Message = k7b.X%OyFp<k3^*T~KuB
+A sending packet with seqnum 1 and checksum 243904
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 243904
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   61409.9588,  Layer 4 to 5  Message = k7b.X%OyFp<k3^*T~KuB
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   63221.5250,  Layer 5 to 4  Message = lf(dB}[9uS1ml)3C~]:v
+A sending packet with seqnum 0 and checksum 245657
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 245657
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   63233.7366,  Layer 4 to 5  Message = lf(dB}[9uS1ml)3C~]:v
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   64455.4027,  Layer 5 to 4  Message = m]L;+xhWG6&scmB1~n^M
+A sending packet with seqnum 1 and checksum 252680
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 252680
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   64470.4430,  Layer 4 to 5  Message = m]L;+xhWG6&scmB1~n^M
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   65505.9601,  Layer 5 to 4  Message = nopqrstuvwxyz{n}~!#$
+A sending packet with seqnum 0 and checksum 252474
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 252474
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   65533.3847,  Layer 4 to 5  Message = nopqrstuvwxyz{n}~!#$
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   66067.1454,  Layer 5 to 4  Message = o$6I[n#5HZm!4GYo~3FX
+A sending packet with seqnum 1 and checksum 230503
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 230503
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   66095.6289,  Layer 4 to 5  Message = o$6I[n#5HZm!4GYo~3FX
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   66558.9714,  Layer 5 to 4  Message = p6Z~EixSw=b(Lp6ZpEix
+A sending packet with seqnum 0 and checksum 263746
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 263746
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   66580.8956,  Layer 4 to 5  Message = p6Z~EixSw=b(Lp6ZpEix
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   68221.5810,  Layer 5 to 4  Message = dI~V.d;qI~V.2;qI~q.d
+A sending packet with seqnum 1 and checksum 247003
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 247003
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   68252.3733,  Layer 4 to 5  Message = dI~V.d;qI~V.2;qI~q.d
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   68582.9800,  Layer 5 to 4  Message = r[E.u_H1xbK4{eN7~hr:
+A sending packet with seqnum 0 and checksum 257527
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 257527
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   68613.1737,  Layer 4 to 5  Message = r[E.u_H1xbK4{eN7~hr:
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   70051.1900,  Layer 5 to 4  Message = snid_YTOJE?:50+&~yts
+A sending packet with seqnum 1 and checksum 247908
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 247908
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   70071.4560,  Layer 4 to 5  Message = snid_YTOJE?:50+&~yts
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   71913.9963,  Layer 5 to 4  Message = t#x;HTamy(4AMYfr~-9F
+A sending packet with seqnum 0 and checksum 230371
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 230371
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   71942.3274,  Layer 4 to 5  Message = t#x;HTamy(4AMYfr~-9F
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   72831.7448,  Layer 5 to 4  Message = uuSq1Om-Ki)Ge%3a~>]z
+A sending packet with seqnum 1 and checksum 246619
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 246619
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   72853.9621,  Layer 4 to 5  Message = uuSq1Om-Ki)Ge%3a~>]z
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   74648.3051,  Layer 5 to 4  Message = vHvIxJyKzL{M|N}O~P!Q
+A sending packet with seqnum 0 and checksum 253645
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 253645
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   74664.7736,  Layer 4 to 5  Message = vHvIxJyKzL{M|N}O~P!Q
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   76357.4828,  Layer 5 to 4  Message = wZ=wbE(iLxpS6wZ=~bE(
+A sending packet with seqnum 1 and checksum 237523
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 237523
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   76385.0428,  Layer 4 to 5  Message = wZ=wbE(iLxpS6wZ=~bE(
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   78317.6868,  Layer 5 to 4  Message = dmbVx?4){peY2C7,~sh]
+A sending packet with seqnum 0 and checksum 252996
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 252996
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   78348.1009,  Layer 4 to 5  Message = dmbVx?4){peY2C7,~sh]
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   79940.3108,  Layer 5 to 4  Message = y!(.4yAGMSY`flrx~'-3
+A sending packet with seqnum 1 and checksum 234261
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 234261
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   79958.0371,  Layer 4 to 5  Message = y!(.4yAGMSY`flrx~'-3
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   81477.9371,  Layer 5 to 4  Message = z4Ld{5ze|6Nf}7Og~8Ph
+A sending packet with seqnum 0 and checksum 260618
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 260618
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   81498.9521,  Layer 4 to 5  Message = z4Ld{5ze|6Nf}7Og~8Ph
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   82796.9804,  Layer 5 to 4  Message = {Gp;e0Y{NwCl7a,U~Js>
+A sending packet with seqnum 1 and checksum 247320
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 247320
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   82798.8246,  Layer 4 to 5  Message = {Gp;e0Y{NwCl7a,U~Js>
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   84103.8075,  Layer 5 to 4  Message = |Y6qN+fC|Z7rO,gD~[8s
+A sending packet with seqnum 0 and checksum 252268
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 252268
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   84113.8402,  Layer 4 to 5  Message = |Y6qN+fC|Z7rO,gD~[8s
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   85337.5220,  Layer 5 to 4  Message = }lZI7&raO},xgUD2~m[J
+A sending packet with seqnum 1 and checksum 254849
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 254849
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   85338.9929,  Layer 4 to 5  Message = }lZI7&raO},xgUD2~m[J
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   86629.7796,  Layer 5 to 4  Message = ~fDUgx,=Oa~&7I3l}1CT
+A sending packet with seqnum 0 and checksum 224715
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 224715
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   86644.4302,  Layer 4 to 5  Message = ~fDUgx,=Oa~&7I3l}1CT
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   88377.7678,  Layer 5 to 4  Message = !3EVhy->Pbs'2J[m~2DU
+A sending packet with seqnum 1 and checksum 233595
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 233595
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   88380.9513,  Layer 4 to 5  Message = !3EVhy->Pbs'2J[m~2DU
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   89912.9934,  Layer 5 to 4  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+A sending packet with seqnum 0 and checksum 230547
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 230547
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   89931.3952,  Layer 4 to 5  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   91217.9736,  Layer 5 to 4  Message = $X$d:oFzQ(]3h>sJ~U,a
+A sending packet with seqnum 1 and checksum 241265
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 241265
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   91236.2878,  Layer 4 to 5  Message = $X$d:oFzQ(]3h>sJ~U,a
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   92895.3020,  Layer 5 to 4  Message = %kS%$jR:#iQ9!hP8~gO7
+A sending packet with seqnum 0 and checksum 224119
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 224119
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   92898.5470,  Layer 4 to 5  Message = %kS%$jR:#iQ9!hP8~gO7
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   93549.0307,  Layer 5 to 4  Message = &}wq&e_XRLF?93-'~xrl
+A sending packet with seqnum 1 and checksum 249386
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 249386
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   93555.4317,  Layer 4 to 5  Message = &}wq&e_XRLF?93-'~xrl
+Setting comp_seqnum from 1 to 0
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   95043.7176,  Layer 5 to 4  Message = '2=IT'kv$x:FQ]hs~,7C
+A sending packet with seqnum 0 and checksum 232274
+ A sending packet to B
+B gettin' a packet with seqnum 0, and checksum 232274
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   95071.3367,  Layer 4 to 5  Message = '2=IT'kv$x:FQ]hs~,7C
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   96052.4554,  Layer 5 to 4  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+A sending packet with seqnum 1 and checksum 259174
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 259174
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   96070.4096,  Layer 4 to 5  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+Setting comp_seqnum from 1 to 0
+
+Printing the contents of the Simulation Event Q
+Event Time = 96552.455 A: Timer    
+Event Time = 96568.025 A: LAYER 5  
+
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+
+Printing the contents of the Simulation Event Q
+
+A:   96568.0252,  Layer 5 to 4  Message = dW(V'U&)%S$R2Q!P~O}N
+A sending packet with seqnum 0 and checksum 228655
+ A sending packet to B
+
+Printing the contents of the Simulation Event Q
+Event Time = 97068.025 A: Timer    
+Event Time = 97436.460 A: LAYER 5  
+
+B gettin' a packet with seqnum 0, and checksum 228655
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 929
+B sending message up to layer 5 and updating newest recieved data
+B:   96570.0988,  Layer 4 to 5  Message = dW(V'U&)%S$R2Q!P~O}N
+Setting comp_seqnum from 0 to 1
+Recieved an ACK/NAK...Checking response...
+Got an ACK snACK that smiles bACK!
+Sending next data from the queue!
+A:   97436.4602,  Layer 5 to 4  Message = *fL.nP2r*6vX:z3>~aC%
+A sending packet with seqnum 1 and checksum 220814
+ A sending packet to B
+B gettin' a packet with seqnum 1, and checksum 220814
+Expected packet compared and confirmed
+B Sending bACK an ACK with checksum: 932
+B sending message up to layer 5 and updating newest recieved data
+B:   97465.8697,  Layer 4 to 5  Message = *fL.nP2r*6vX:z3>~aC%
+Setting comp_seqnum from 1 to 0
+
+
+Simulator terminated at time 97470.820829
+ after receiving 100 msgs at layer5
+Simulator Analysis:
+  Number of messages sent from 5 to 4: 100
+  Number of messages received at Layer 5, side A: 0
+  Number of messages received at Layer 5, side B: 100
+  Number of messages incorrectly received at layer 5: 0
+  Number of packets entering the network: 200
+  Average number of packets already in network:     0.000
+  Number of packets that the network lost: 0
+  Number of packets that the network corrupted: 0
+  Number of packets that the network put out of order: 0

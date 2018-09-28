@@ -1,0 +1,261 @@
+-----  Network Simulator Version    2.3 -------- 
+
+Enter the number of messages to simulate: Packet loss probability [enter number between 0.0 and 1.0]: Packet corruption probability [0.0 for no corruption]: Packet out-of-order probability [0.0 for no out-of-order]: Average time between messages from sender's layer5 [ > 0.0]: Enter Level of tracing desired: Do you want actions randomized: (1 = yes, 0 = no)? Do you want Bidirectional: (1 = yes, 0 = no)? Input parameters:
+Number of Messages = 100  Lost Packet Prob. =   0.000
+Corrupt Packet Prob. =   0.000  Out Of Order Prob. =   0.000
+Ave. time between messages =  1000.00  Trace level = 0
+Randomize = 0  Bi-directional = 0
+
+A:    1080.0336,  Layer 5 to 4  Message = !fEVhy->Pbs'2J3m~2DU
+B:    1088.3078,  Layer 4 to 5  Message = !fEVhy->Pbs'2J3m~2DU
+A:    1204.7785,  Layer 5 to 4  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+B:    1223.5961,  Layer 4 to 5  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+A:    1653.7829,  Layer 5 to 4  Message = $X$d:oFzQ(]3h>sJ~U,a
+B:    1677.5376,  Layer 4 to 5  Message = $X$d:oFzQ(]3h>sJ~U,a
+A:    1835.7455,  Layer 5 to 4  Message = %kS%$jR:#iQ9!hP8~gO7
+B:    1849.0348,  Layer 4 to 5  Message = %kS%$jR:#iQ9!hP8~gO7
+A:    2371.0866,  Layer 5 to 4  Message = &}wq&e_XRLF?93-'~xrl
+B:    2390.6989,  Layer 4 to 5  Message = &}wq&e_XRLF?93-'~xrl
+A:    2409.3401,  Layer 5 to 4  Message = '2=IT'kv$x:FQ]hs~,7C
+B:    2411.2992,  Layer 4 to 5  Message = '2=IT'kv$x:FQ]hs~,7C
+A:    3967.4124,  Layer 5 to 4  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+B:    3996.5436,  Layer 4 to 5  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+A:    5695.2777,  Layer 5 to 4  Message = dW(V'U&)%S$R2Q!P~O}N
+B:    5725.4583,  Layer 4 to 5  Message = dW(V'U&)%S$R2Q!P~O}N
+A:    6789.8469,  Layer 5 to 4  Message = *jL.nP2r*6vX:z]>~aC%
+B:    6808.5132,  Layer 4 to 5  Message = *jL.nP2r*6vX:z]>~aC%
+A:    8601.9736,  Layer 5 to 4  Message = +fpdWK>2&+k_RF3-~rfY
+B:    8609.1710,  Layer 4 to 5  Message = +fpdWK>2&+k_RF3-~rfY
+A:   10392.1991,  Layer 5 to 4  Message = ,16;AFKPUZ,ejoty~&+0
+B:   10393.2031,  Layer 4 to 5  Message = ,16;AFKPUZ,ejoty~&+0
+A:   10597.3988,  Layer 5 to 4  Message = -DZq*AWn'=T-$:Qh~7Ne
+B:   10623.9955,  Layer 4 to 5  Message = -DZq*AWn'=T-$:Qh~7Ne
+A:   10677.1588,  Layer 5 to 4  Message = .V~Iq;d.V~Iq.d.V~Iq;
+B:   10703.7936,  Layer 4 to 5  Message = .V~Iq;d.V~Iq.d.V~Iq;
+A:   11691.5139,  Layer 5 to 4  Message = xiE~Z6pL(b=wSxiE~Z6p
+B:   11701.4170,  Layer 4 to 5  Message = xiE~Z6pL(b=wSxiE~Z6p
+A:   12599.1338,  Layer 5 to 4  Message = d{iVD1|jWE2}2X03~lYG
+B:   12605.7082,  Layer 4 to 5  Message = d{iVD1|jWE2}2X03~lYG
+A:   14595.4557,  Layer 5 to 4  Message = 10x.-,+*)('&%$#1~}|{
+B:   14620.7627,  Layer 4 to 5  Message = 10x.-,+*)('&%$#1~}|{
+A:   15241.1113,  Layer 5 to 4  Message = 2CSdt'7HXiy,<M^n21BR
+B:   15271.8034,  Layer 4 to 5  Message = 2CSdt'7HXiy,<M^n21BR
+A:   17069.6050,  Layer 5 to 4  Message = 3Uw;^!Df*Ln2Tv:]~3e)
+B:   17094.2012,  Layer 4 to 5  Message = 3Uw;^!Df*Ln2Tv:]~3e)
+A:   17917.2955,  Layer 5 to 4  Message = 4f=qGzP&Yxc8lB3K~T4^
+B:   17942.2117,  Layer 4 to 5  Message = 4f=qGzP&Yxc8lB3K~T4^
+A:   18571.9030,  Layer 5 to 4  Message = 5zbI0u]D+pW>&kR9~fM5
+B:   18594.0958,  Layer 4 to 5  Message = 5zbI0u]D+pW>&kR9~fM5
+A:   19805.2712,  Layer 5 to 4  Message = 6x(~wpibZSLE=6x(~wpi
+B:   19821.8210,  Layer 4 to 5  Message = 6x(~wpibZSLE=6x(~wpi
+A:   21001.9153,  Layer 5 to 4  Message = d7LVaku!,6AK2`jt~+5?
+B:   21029.2532,  Layer 4 to 5  Message = d7LVaku!,6AK2`jt~+5?
+A:   21593.4219,  Layer 5 to 4  Message = 8T8.Jf$?[w5Qm+Gc~<Xt
+B:   21613.8933,  Layer 4 to 5  Message = 8T8.Jf$?[w5Qm+Gc~<Xt
+A:   22655.4613,  Layer 5 to 4  Message = 9g693a0^-Z*W'T$Q~N{K
+B:   22666.5777,  Layer 4 to 5  Message = 9g693a0^-Z*W'T$Q~N{K
+A:   23510.0001,  Layer 5 to 4  Message = :yZ;:[<{]=|^>}_?~`A!
+A:   23520.2472,  Layer 5 to 4  Message = ;.~qd;I;.~qdVI;.~qdV
+B:   23521.4004,  Layer 4 to 5  Message = :yZ;:[<{]=|^>}_?~`A!
+B:   23531.9705,  Layer 4 to 5  Message = ;.~qd;I;.~qdVI;.~qdV
+A:   23652.4312,  Layer 5 to 4  Message = <AEIMQ<Y^bfjnrvz~%)-
+B:   23667.1036,  Layer 4 to 5  Message = <AEIMQ<Y^bfjnrvz~%)-
+A:   23781.1731,  Layer 5 to 4  Message = =fi~6Lb=xEZp(=3i~6Lb
+B:   23805.8496,  Layer 4 to 5  Message = =fi~6Lb=xEZp(=3i~6Lb
+A:   25506.1430,  Layer 5 to 4  Message = dfxV}Gn7>(Ov2g0W~Ho8
+B:   25530.3311,  Layer 4 to 5  Message = dfxV}Gn7>(Ov2g0W~Ho8
+A:   26639.8789,  Layer 5 to 4  Message = ?xS.gBzU0?D|W2kF~Y4m
+B:   26660.8227,  Layer 4 to 5  Message = ?xS.gBzU0?D|W2kF~Y4m
+A:   28575.8752,  Layer 5 to 4  Message = A-wdP<)s`LA%o[H4~kWD
+B:   28589.0429,  Layer 4 to 5  Message = A-wdP<)s`LA%o[H4~kWD
+A:   30053.8982,  Layer 5 to 4  Message = B?=;97531x-B)'%#~|zx
+B:   30057.6330,  Layer 4 to 5  Message = B?=;97531x-B)'%#~|zx
+
+Printing the contents of the Simulation Event Q
+Event Time = 30208.157 A: LAYER 5  
+Event Time = 30553.898 A: Timer    
+
+
+Printing the contents of the Simulation Event Q
+
+A:   30208.1568,  Layer 5 to 4  Message = CRbq#2BQap!1CP`o~0?O
+
+Printing the contents of the Simulation Event Q
+Event Time = 30708.157 A: Timer    
+Event Time = 30880.762 A: LAYER 5  
+
+B:   30225.3876,  Layer 4 to 5  Message = CRbq#2BQap!1CP`o~0?O
+A:   30880.7619,  Layer 5 to 4  Message = De(Ij-No2St7XD<^~Bc&
+B:   30905.6444,  Layer 4 to 5  Message = De(Ij-No2St7XD<^~Bc&
+A:   31368.8179,  Layer 5 to 4  Message = EwL~S(Zxb6i=pEEL~S(Z
+B:   31399.8179,  Layer 4 to 5  Message = EwL~S(Zxb6i=pEEL~S(Z
+A:   31673.4868,  Layer 5 to 4  Message = d,pV<#gM3w^D2nTF~eK1
+B:   31688.5241,  Layer 4 to 5  Message = d,pV<#gM3w^D2nTF~eK1
+A:   32135.1752,  Layer 5 to 4  Message = Gf6.&{skcZRJB93)Gvnf
+B:   32151.0083,  Layer 4 to 5  Message = Gf6.&{skcZRJB93)Gvnf
+A:   33205.0034,  Layer 5 to 4  Message = HQZdmv!+4=GPYclu~H3<
+B:   33234.4149,  Layer 4 to 5  Message = HQZdmv!+4=GPYclu~H3<
+A:   35031.7987,  Layer 5 to 4  Message = Id~;Vq.Id~;Vq.Id~;Iq
+B:   35058.0842,  Layer 4 to 5  Message = Id~;Vq.Id~;Vq.Id~;Iq
+A:   35689.8285,  Layer 5 to 4  Message = JvEq?l:g5b0]+W&R~MyJ
+B:   35714.8736,  Layer 4 to 5  Message = JvEq?l:g5b0]+W&R~MyJ
+A:   35719.8396,  Layer 5 to 4  Message = K+iI)gG'eE%cC#aA~_>|
+B:   35747.2011,  Layer 4 to 5  Message = K+iI)gG'eE%cC#aA~_>|
+A:   36994.7240,  Layer 5 to 4  Message = LLx~pbSE6(wiZL=x~pbS
+B:   37014.4906,  Layer 4 to 5  Message = LLx~pbSE6(wiZL=x~pbS
+A:   38855.9163,  Layer 5 to 4  Message = dPMVY]`cfilo2ux{~$'*
+B:   38870.7000,  Layer 4 to 5  Message = dPMVY]`cfilo2ux{~$'*
+A:   39841.0647,  Layer 5 to 4  Message = NcwNCWl#7Lau,AUj~5J_
+B:   39868.2881,  Layer 4 to 5  Message = NcwNCWl#7Lau,AUj~5J_
+A:   41822.7274,  Layer 5 to 4  Message = Ou=dORxAgxU{Dj2X~Gm5
+B:   41850.0127,  Layer 4 to 5  Message = Ou=dORxAgxU{Dj2X~Gm5
+A:   42051.0600,  Layer 5 to 4  Message = Pfb;sP'_8pJ$[53G~X2j
+B:   42078.6475,  Layer 4 to 5  Message = Pfb;sP'_8pJ$[53G~X2j
+A:   42806.7383,  Layer 5 to 4  Message = Q<(q]HQ|hS>*s_J5~jUA
+B:   42836.6015,  Layer 4 to 5  Message = Q<(q]HQ|hS>*s_J5~jUA
+A:   42959.2816,  Layer 5 to 4  Message = ROLIFC?R9630-*'$~{xu
+B:   42978.6605,  Layer 4 to 5  Message = ROLIFC?R9630-*'$~{xu
+A:   43613.2632,  Layer 5 to 4  Message = Sbp~x=LZSw(6ESbp~x=L
+B:   43637.0315,  Layer 4 to 5  Message = Sbp~x=LZSw(6ESbp~x=L
+A:   44385.1515,  Layer 5 to 4  Message = dt6Vv8Xx:Tz<2|>_~Aa#
+B:   44395.4744,  Layer 4 to 5  Message = dt6Vv8Xx:Tz<2|>_~Aa#
+A:   44725.3154,  Layer 5 to 4  Message = U)Z.`3e8j=UCtHyM~R&W
+B:   44732.4831,  Layer 4 to 5  Message = U)Z.`3e8j=UCtHyM~R&W
+A:   46707.0192,  Layer 5 to 4  Message = V;~dI.qV;~dV.qV;~dI.
+B:   46737.3566,  Layer 4 to 5  Message = V;~dI.qV;~dV.qV;~dI.
+A:   48621.2506,  Layer 5 to 4  Message = WNE;2)}tkbXOW<3*~ulc
+B:   48646.9783,  Layer 4 to 5  Message = WNE;2)}tkbXOW<3*~ulc
+A:   49419.3024,  Layer 5 to 4  Message = Xaiqy$,4<EMU^Xnv~)19
+B:   49445.7867,  Layer 4 to 5  Message = Xaiqy$,4<EMU^Xnv~)19
+A:   49566.3655,  Layer 5 to 4  Message = YfxIc|8Rl(B[u1Ye~:Tn
+B:   49589.6528,  Layer 4 to 5  Message = YfxIc|8Rl(B[u1Ye~:Tn
+A:   49775.4149,  Layer 5 to 4  Message = Z(S~LwEp=i6bxZ(Z~LwE
+B:   49788.0581,  Layer 4 to 5  Message = Z(S~LwEp=i6bxZ(Z~LwE
+A:   50395.1598,  Layer 5 to 4  Message = d:wV5rQ0mL+h2&cB[^<y
+B:   50405.0714,  Layer 4 to 5  Message = d:wV5rQ0mL+h2&cB[^<y
+A:   51455.7825,  Layer 5 to 4  Message = ]M=.|m^N>x}n_O?0~]`P
+B:   51476.6361,  Layer 4 to 5  Message = ]M=.|m^N>x}n_O?0~]`P
+A:   51636.9706,  Layer 5 to 4  Message = ^`bdfhjlnprtvxz|~#^'
+B:   51649.6869,  Layer 4 to 5  Message = ^`bdfhjlnprtvxz|~#^'
+A:   51900.2739,  Layer 5 to 4  Message = _r(;Ocv,?Sgz0DWk~4H_
+B:   51907.4675,  Layer 4 to 5  Message = _r(;Ocv,?Sgz0DWk~4H_
+A:   52422.9955,  Layer 5 to 4  Message = `'Lq8^%Jo6[#Hm4Y~Fk2
+B:   52449.2545,  Layer 4 to 5  Message = `'Lq8^%Jo6[#Hm4Y~Fk2
+A:   53262.2683,  Layer 5 to 4  Message = aapI!X1hAwP)`8oH~W0g
+B:   53268.8232,  Layer 4 to 5  Message = aapI!X1hAwP)`8oH~W0g
+A:   54420.5133,  Layer 5 to 4  Message = bLb~iS=(pZExwbL6~iS=
+B:   54443.0387,  Layer 4 to 5  Message = bLb~iS=(pZExwbL6~iS=
+A:   54942.8125,  Layer 5 to 4  Message = dfZcRNJFB=952-3%~zvr
+B:   54947.9760,  Layer 4 to 5  Message = dfZcRNJFB=952-3%~zvr
+A:   55546.8423,  Layer 5 to 4  Message = dq~.dIVdq~.;IVdq~.;I
+B:   55567.4378,  Layer 4 to 5  Message = dq~.dIVdq~.;IVdq~.;I
+
+Printing the contents of the Simulation Event Q
+Event Time = 55771.225 A: LAYER 5  
+Event Time = 56046.842 A: Timer    
+
+
+Printing the contents of the Simulation Event Q
+
+A:   55771.2250,  Layer 5 to 4  Message = e&Ed%ec$Cb#Ba!A`~?_}
+
+Printing the contents of the Simulation Event Q
+Event Time = 56133.825 A: LAYER 5  
+Event Time = 56271.225 A: Timer    
+
+B:   55795.4980,  Layer 4 to 5  Message = e&Ed%ec$Cb#Ba!A`~?_}
+A:   56133.8250,  Layer 5 to 4  Message = f8i;l>fBrEuHxK{N~Q$T
+B:   56142.1432,  Layer 4 to 5  Message = f8i;l>fBrEuHxK{N~Q$T
+A:   58069.2442,  Layer 5 to 4  Message = gKxqU9{gD(jN2tX<~cG+
+B:   58071.1842,  Layer 4 to 5  Message = gKxqU9{gD(jN2tX<~cG+
+A:   58217.8614,  Layer 5 to 4  Message = h^SI>4*}hi_TJ?5+~tj`
+B:   58233.5178,  Layer 4 to 5  Message = h^SI>4*}hi_TJ?5+~tj`
+A:   58408.7258,  Layer 5 to 4  Message = ipw~(x6=EiSZbipw~(x6
+B:   58435.6865,  Layer 4 to 5  Message = ipw~(x6=EiSZbipw~(x6
+A:   59863.5177,  Layer 5 to 4  Message = d%=Vo*C[txja24Mf~9Rk
+B:   59876.8852,  Layer 4 to 5  Message = d%=Vo*C[txja24Mf~9Rk
+A:   61402.4118,  Layer 5 to 4  Message = k7b.X%OyFp<k3^*T~KuB
+B:   61409.9588,  Layer 4 to 5  Message = k7b.X%OyFp<k3^*T~KuB
+A:   63221.5250,  Layer 5 to 4  Message = lf(dB}[9uS1ml)3C~]:v
+B:   63233.7366,  Layer 4 to 5  Message = lf(dB}[9uS1ml)3C~]:v
+A:   64455.4027,  Layer 5 to 4  Message = m]L;+xhWG6&scmB1~n^M
+B:   64470.4430,  Layer 4 to 5  Message = m]L;+xhWG6&scmB1~n^M
+A:   65505.9601,  Layer 5 to 4  Message = nopqrstuvwxyz{n}~!#$
+B:   65533.3847,  Layer 4 to 5  Message = nopqrstuvwxyz{n}~!#$
+A:   66067.1454,  Layer 5 to 4  Message = o$6I[n#5HZm!4GYo~3FX
+B:   66095.6289,  Layer 4 to 5  Message = o$6I[n#5HZm!4GYo~3FX
+A:   66558.9714,  Layer 5 to 4  Message = p6Z~EixSw=b(Lp6ZpEix
+B:   66580.8956,  Layer 4 to 5  Message = p6Z~EixSw=b(Lp6ZpEix
+A:   68221.5810,  Layer 5 to 4  Message = dI~V.d;qI~V.2;qI~q.d
+B:   68252.3733,  Layer 4 to 5  Message = dI~V.d;qI~V.2;qI~q.d
+A:   68582.9800,  Layer 5 to 4  Message = r[E.u_H1xbK4{eN7~hr:
+B:   68613.1737,  Layer 4 to 5  Message = r[E.u_H1xbK4{eN7~hr:
+A:   70051.1900,  Layer 5 to 4  Message = snid_YTOJE?:50+&~yts
+B:   70071.4560,  Layer 4 to 5  Message = snid_YTOJE?:50+&~yts
+A:   71913.9963,  Layer 5 to 4  Message = t#x;HTamy(4AMYfr~-9F
+B:   71942.3274,  Layer 4 to 5  Message = t#x;HTamy(4AMYfr~-9F
+A:   72831.7448,  Layer 5 to 4  Message = uuSq1Om-Ki)Ge%3a~>]z
+B:   72853.9621,  Layer 4 to 5  Message = uuSq1Om-Ki)Ge%3a~>]z
+A:   74648.3051,  Layer 5 to 4  Message = vHvIxJyKzL{M|N}O~P!Q
+B:   74664.7736,  Layer 4 to 5  Message = vHvIxJyKzL{M|N}O~P!Q
+A:   76357.4828,  Layer 5 to 4  Message = wZ=wbE(iLxpS6wZ=~bE(
+B:   76385.0428,  Layer 4 to 5  Message = wZ=wbE(iLxpS6wZ=~bE(
+A:   78317.6868,  Layer 5 to 4  Message = dmbVx?4){peY2C7,~sh]
+B:   78348.1009,  Layer 4 to 5  Message = dmbVx?4){peY2C7,~sh]
+A:   79940.3108,  Layer 5 to 4  Message = y!(.4yAGMSY`flrx~'-3
+B:   79958.0371,  Layer 4 to 5  Message = y!(.4yAGMSY`flrx~'-3
+A:   81477.9371,  Layer 5 to 4  Message = z4Ld{5ze|6Nf}7Og~8Ph
+B:   81498.9521,  Layer 4 to 5  Message = z4Ld{5ze|6Nf}7Og~8Ph
+A:   82796.9804,  Layer 5 to 4  Message = {Gp;e0Y{NwCl7a,U~Js>
+B:   82798.8246,  Layer 4 to 5  Message = {Gp;e0Y{NwCl7a,U~Js>
+A:   84103.8075,  Layer 5 to 4  Message = |Y6qN+fC|Z7rO,gD~[8s
+B:   84113.8402,  Layer 4 to 5  Message = |Y6qN+fC|Z7rO,gD~[8s
+A:   85337.5220,  Layer 5 to 4  Message = }lZI7&raO},xgUD2~m[J
+B:   85338.9929,  Layer 4 to 5  Message = }lZI7&raO},xgUD2~m[J
+A:   86629.7796,  Layer 5 to 4  Message = ~fDUgx,=Oa~&7I3l}1CT
+B:   86644.4302,  Layer 4 to 5  Message = ~fDUgx,=Oa~&7I3l}1CT
+A:   88377.7678,  Layer 5 to 4  Message = !3EVhy->Pbs'2J[m~2DU
+B:   88380.9513,  Layer 4 to 5  Message = !3EVhy->Pbs'2J[m~2DU
+A:   89912.9934,  Layer 5 to 4  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+B:   89931.3952,  Layer 4 to 5  Message = ##i.Qt9]!Eh-Ps8[~Dg,
+A:   91217.9736,  Layer 5 to 4  Message = $X$d:oFzQ(]3h>sJ~U,a
+B:   91236.2878,  Layer 4 to 5  Message = $X$d:oFzQ(]3h>sJ~U,a
+A:   92895.3020,  Layer 5 to 4  Message = %kS%$jR:#iQ9!hP8~gO7
+B:   92898.5470,  Layer 4 to 5  Message = %kS%$jR:#iQ9!hP8~gO7
+A:   93549.0307,  Layer 5 to 4  Message = &}wq&e_XRLF?93-'~xrl
+B:   93555.4317,  Layer 4 to 5  Message = &}wq&e_XRLF?93-'~xrl
+A:   95043.7176,  Layer 5 to 4  Message = '2=IT'kv$x:FQ]hs~,7C
+B:   95071.3367,  Layer 4 to 5  Message = '2=IT'kv$x:FQ]hs~,7C
+A:   96052.4554,  Layer 5 to 4  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+B:   96070.4096,  Layer 4 to 5  Message = (Eb~=Z(6SpxLi(Eb~=Zw
+
+Printing the contents of the Simulation Event Q
+Event Time = 96552.455 A: Timer    
+Event Time = 96568.025 A: LAYER 5  
+
+
+Printing the contents of the Simulation Event Q
+
+A:   96568.0252,  Layer 5 to 4  Message = dW(V'U&)%S$R2Q!P~O}N
+
+Printing the contents of the Simulation Event Q
+Event Time = 97068.025 A: Timer    
+Event Time = 97436.460 A: LAYER 5  
+
+B:   96570.0988,  Layer 4 to 5  Message = dW(V'U&)%S$R2Q!P~O}N
+A:   97436.4602,  Layer 5 to 4  Message = *fL.nP2r*6vX:z3>~aC%
+B:   97465.8697,  Layer 4 to 5  Message = *fL.nP2r*6vX:z3>~aC%
+
+
+Simulator terminated at time 97470.820829
+ after receiving 100 msgs at layer5
+Simulator Analysis:
+  Number of messages sent from 5 to 4: 100
+  Number of messages received at Layer 5, side A: 0
+  Number of messages received at Layer 5, side B: 100
+  Number of messages incorrectly received at layer 5: 0
+  Number of packets entering the network: 200
+  Average number of packets already in network:     0.000
+  Number of packets that the network lost: 0
+  Number of packets that the network corrupted: 0
+  Number of packets that the network put out of order: 0
